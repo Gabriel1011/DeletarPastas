@@ -1,0 +1,9 @@
+C:\Users\g.almeida\source\repos\DeletarPastasScanner\DeletarPastasScanner\bin\Debug\DeletarPastasScanner.exe
+C:\Users\g.almeida\source\repos\DeletarPastasScanner\DeletarPastasScanner\bin\Debug\DeletarPastasScanner.pdb
+C:\Users\g.almeida\source\repos\DeletarPastasScanner\DeletarPastasScanner\obj\Debug\DeletarPastasScanner.exe
+C:\Users\g.almeida\source\repos\DeletarPastasScanner\DeletarPastasScanner\obj\Debug\DeletarPastasScanner.pdb
+C:\dev\DeletarPastasScanner\DeletarPastasScanner\bin\Debug\DeletarPastasScanner.exe
+C:\dev\DeletarPastasScanner\DeletarPastasScanner\bin\Debug\DeletarPastasScanner.pdb
+C:\dev\DeletarPastasScanner\DeletarPastasScanner\obj\Debug\DeletarPastasScanner.csprojAssemblyReference.cache
+C:\dev\DeletarPastasScanner\DeletarPastasScanner\obj\Debug\DeletarPastasScanner.exe
+C:\dev\DeletarPastasScanner\DeletarPastasScanner\obj\Debug\DeletarPastasScanner.pdb
